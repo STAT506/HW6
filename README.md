@@ -36,5 +36,12 @@ What about this course could be improved to facilitate your learning?
 #### f. (1 point)
 What about the first year of that statistics program could be changed to improve your experience at MSU?
 
+### Q3. 
+
+#### a. (1 point) 
+What is your research questions for project 2?
+
+#### b. (1 point) 
+Are you working with a partner for this project? If so, who?
 
 
